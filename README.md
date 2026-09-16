@@ -1,6 +1,6 @@
 # Genetic Algorithm Feature Selection for Scaffold-Aware Prediction of Dual JNK3/GSK3β Candidates
 
-Can simple 2D molecular descriptors predict whether a molecule is a promising candidate for **two** Alzheimer's-relevant kinase targets at once, and still work on molecules with **two Alzheimer's-relevant kinase targets**?
+Can simple 2D molecular descriptors predict whether a molecule is a promising candidate for **two** Alzheimer's-relevant kinase targets at once, and still work on molecules with **completely new chemical scaffolds**?
 
 This project builds a machine learning pipeline to answer that question. It compares descriptor sets and feature selection strategies across roughly 97,000 molecules, and uses a Genetic Algorithm to search a 626-descriptor space for the most informative subset.
 
