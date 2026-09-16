@@ -1,0 +1,2 @@
+model,max_depth,rounds_completed,best_iteration,minimum_validation_logloss,training_mcc,validation_mcc,training_validation_mcc_gap,training_balanced_accuracy,validation_balanced_accuracy
+High capacity,12,487,286,0.2302449451162784,0.9761051369378214,0.6912591213110233,0.2848460156267981,0.9945582401611636,0.8404609470157228

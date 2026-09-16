@@ -1,0 +1,2 @@
+mrmr_features,ga_features,shared_features,mrmr_only_features,ga_only_features,jaccard_similarity,mrmr_features_shared_percent,ga_features_shared_percent
+300,316,145,155,171,0.3078556263269639,48.333333333333336,45.88607594936709

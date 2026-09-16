@@ -1,0 +1,8 @@
+hidden_neurons,trainable_parameters,training_samples,parameters_per_training_sample,capacity_regime
+10,1032,67502,0.01528843589819561,Classical/intermediate
+50,5152,67502,0.07632366448401529,Classical/intermediate
+100,10302,67502,0.1526177002162899,Classical/intermediate
+250,25752,67502,0.3814998074131137,Classical/intermediate
+500,51502,67502,0.7629699860744866,Classical/intermediate
+1000,103002,67502,1.5259103433972327,Classical/intermediate
+2000,206002,67502,3.0517910580427245,Modern

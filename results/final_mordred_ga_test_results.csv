@@ -1,0 +1,2 @@
+descriptor_method,feature_selection,model,number_of_features,threshold,training_rows,test_rows,balanced_accuracy,mcc,roc_auc,average_precision,precision,recall,specificity,f1_score,true_negative,false_positive,false_negative,true_positive
+Mordred,Genetic Algorithm,XGBoost,316,0.5,82071,14700,0.8407410565293121,0.7124297921151855,0.9530440531409745,0.986302512889262,0.9279422867209127,0.9560107164462881,0.7254713966123362,0.9417674101821897,2270,859,509,11062

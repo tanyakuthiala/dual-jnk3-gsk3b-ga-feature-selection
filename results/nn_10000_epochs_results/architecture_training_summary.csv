@@ -1,0 +1,8 @@
+hidden_neurons,trainable_parameters,completed_epochs,optimisation_steps,best_epoch,best_validation_loss,final_validation_loss,elapsed_hours,best_model_file,history_file
+10,1032,10000,5280000,9603,0.21734292805194855,0.21898747980594635,3.912239688369963,nn_10000_epochs_results/hidden_10/best_model.pt,nn_10000_epochs_results/hidden_10/training_history.csv
+50,5152,10000,5280000,4478,0.19841431081295013,0.20257164537906647,3.125532710750898,nn_10000_epochs_results/hidden_50/best_model.pt,nn_10000_epochs_results/hidden_50/training_history.csv
+100,10302,10000,5280000,193,0.19504563510417938,0.20870272815227509,2.941141968369484,nn_10000_epochs_results/hidden_100/best_model.pt,nn_10000_epochs_results/hidden_100/training_history.csv
+250,25752,10000,5280000,65,0.19358912110328674,0.23289938271045685,3.3485869518253537,nn_10000_epochs_results/hidden_250/best_model.pt,nn_10000_epochs_results/hidden_250/training_history.csv
+500,51502,10000,5280000,30,0.19301338493824005,0.27381861209869385,3.238838654226727,nn_10000_epochs_results/hidden_500/best_model.pt,nn_10000_epochs_results/hidden_500/training_history.csv
+1000,103002,10000,5280000,30,0.19197291135787964,0.31972527503967285,2.9650145417451856,nn_10000_epochs_results/hidden_1000/best_model.pt,nn_10000_epochs_results/hidden_1000/training_history.csv
+2000,206002,10000,5280000,30,0.1896483153104782,0.32154279947280884,3.196901433070501,nn_10000_epochs_results/hidden_2000/best_model.pt,nn_10000_epochs_results/hidden_2000/training_history.csv

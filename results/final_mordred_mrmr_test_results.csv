@@ -1,0 +1,2 @@
+descriptor_method,feature_selection,model,number_of_features,threshold,training_rows,test_rows,balanced_accuracy,mcc,roc_auc,average_precision,precision,recall,specificity,f1_score,true_negative,false_positive,false_negative,true_positive
+Mordred,mRMR,XGBoost,300,0.7,82071,14700,0.874007513576814,0.6570054409831426,0.9526404007727081,0.9861942715409815,0.9711375212224108,0.8403768040791634,0.9076382230744647,0.9010378057820608,2840,289,1847,9724

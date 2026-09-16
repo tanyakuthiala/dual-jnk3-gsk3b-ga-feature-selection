@@ -1,0 +1,2 @@
+model,threshold,balanced_accuracy,mcc,roc_auc,average_precision,precision,recall,specificity,f1_score,true_negative,false_positive,false_negative,true_positive
+XGBoost,0.7,0.8756668098761224,0.6600753312629347,0.9473198160007427,0.9852921038686567,0.9702584105314481,0.8552518480316315,0.8960817717206133,0.9091324409520763,2630,305,1684,9950

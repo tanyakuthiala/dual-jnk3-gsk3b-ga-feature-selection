@@ -1,0 +1,2 @@
+model,threshold,balanced_accuracy,mcc,roc_auc,average_precision,precision,recall,specificity,f1_score,true_negative,false_positive,false_negative,true_positive
+Extra Trees - tuned threshold,0.79,0.8561104018972763,0.6237224119870576,0.9322388206569536,0.9807804437616405,0.9620848437346918,0.8440777032834794,0.8681431005110732,0.8992262259054072,2548,387,1814,9820

@@ -1,0 +1,3 @@
+dataset,descriptor_method,feature_selection,model,number_of_features,threshold,balanced_accuracy,mcc,roc_auc,average_precision,precision,recall,specificity,f1_score
+Validation,Mordred,mRMR,XGBoost,300,0.7,0.88,0.68,0.951,0.986,0.968,0.874,0.886,0.919
+Untouched scaffold test,Mordred,mRMR,XGBoost,300,0.7,0.874007513576814,0.6570054409831426,0.952640400772708,0.9861942715409816,0.9711375212224108,0.8403768040791634,0.9076382230744648,0.9010378057820608

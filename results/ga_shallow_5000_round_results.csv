@@ -1,0 +1,2 @@
+model,max_depth,rounds_completed,best_iteration,minimum_validation_logloss,training_mcc,validation_mcc,training_validation_mcc_gap,training_balanced_accuracy,validation_balanced_accuracy
+Very shallow extended,2,5000,4998,0.263674763292266,0.7766915364261555,0.6861879520566263,0.09050358436952921,0.9202268432820451,0.872274005082325

@@ -1,0 +1,6 @@
+ga_seed,xgboost_random_state,script_name,result_folder,population_size,generations
+7,42,full_ga_run_seed_7.py,full_ga_results_seed_7,40,30
+21,42,full_ga_run_seed_21.py,full_ga_results_seed_21,40,30
+84,42,full_ga_run_seed_84.py,full_ga_results_seed_84,40,30
+123,42,full_ga_run_seed_123.py,full_ga_results_seed_123,40,30
+99,42,full_ga_run_seed_99.py,full_ga_results_seed_99,40,30

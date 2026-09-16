@@ -1,0 +1,2 @@
+descriptor_method,feature_selection,model,number_of_features,threshold,n_estimators,validation_balanced_accuracy,validation_mcc,validation_roc_auc,validation_average_precision,validation_precision,validation_recall,validation_specificity,validation_f1_score,selection_reason
+Mordred,mRMR,XGBoost,300,0.7,1000,0.88,0.68,0.951,0.986,0.968,0.874,0.886,0.919,Nearly identical performance to the 626-feature Mordred baseline while using 326 fewer descriptors.
